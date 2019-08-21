@@ -3,11 +3,11 @@ var LAYOUT = {
 }
 var user = {
     github: {
-        name: "enria",
-        data_repo: "tree-markdown-note",
+        name: "zhaozuodong",
+        data_repo: "notes",
         data_root_path: "/",
         data_recursive: 10,
-        project_repo:"enria.github.io"
+        project_repo:"zhaozuodong.github.io"
     }
 }
 var GITHUB_API = {
